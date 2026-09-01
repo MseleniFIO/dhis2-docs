@@ -29,7 +29,7 @@ The Data Entry app is made up of a few different sections:
 ### Opening a form { #aggregate_data_entry_app.opening_a_form }
 
 To get started with data entry, you need to open a form. Choose  the form you want to open using the top bar:
-1. **Choose a data set** from the first control in the top bar. The dropdown menu shows the data sets that you have access to. The data set determines what other choices are available, so you have to choose a data set first.
+1. **Choose a data set** from the first control in the top bar. The dropdown menu shows the data sets that you have access to. The data set determines what other choices are available but in a case where you have a huge number of data sets allocated to you, you may also choose the organisation unit first which will filter all the data sets that are assigned to that organisation unit and level you have selected.
 2. **Choose an organisation unit** from the second control in the top bar. You can search for an organisation unit or browse the tree hierarchy.
 3. **Choose a period** from the third control in the top bar. The dropdown menu shows the periods set up for the chosen data set. Choose from different years by clicking the left and right arrow buttons.
 4. **Make additional selections**, if applicable. If there are any other selections available, they will be shown as the last controls in the top bar. Additional selections depend on the chosen data set, organisation unit, and period, so they won't be shown until those first three choices are made. If there aren't any additional selections then extra controls won't be shown.
